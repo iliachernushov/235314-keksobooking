@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ilya Chernyshov](https://up.htmlacademy.ru/javascript/16/user/235314).
-* Наставник: `Неизвестно`.
+* Наставник: `Александр Тимоновский`.
 
 ---
 
